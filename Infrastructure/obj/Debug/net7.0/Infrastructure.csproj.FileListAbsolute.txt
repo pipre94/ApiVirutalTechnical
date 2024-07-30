@@ -1,0 +1,16 @@
+C:\Development\VirtualTechnical\ApiVirutalTechnical\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Development\VirtualTechnical\ApiVirutalTechnical\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Development\VirtualTechnical\ApiVirutalTechnical\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Development\VirtualTechnical\ApiVirutalTechnical\Infrastructure\bin\Debug\net7.0\Domain.dll
+C:\Development\VirtualTechnical\ApiVirutalTechnical\Infrastructure\bin\Debug\net7.0\Domain.pdb
+C:\Development\VirtualTechnical\ApiVirutalTechnical\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Development\VirtualTechnical\ApiVirutalTechnical\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\VirtualTechnical\ApiVirutalTechnical\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Development\VirtualTechnical\ApiVirutalTechnical\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Development\VirtualTechnical\ApiVirutalTechnical\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Development\VirtualTechnical\ApiVirutalTechnical\Infrastructure\obj\Debug\net7.0\Infrastructure.sourcelink.json
+C:\Development\VirtualTechnical\ApiVirutalTechnical\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+C:\Development\VirtualTechnical\ApiVirutalTechnical\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Development\VirtualTechnical\ApiVirutalTechnical\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Development\VirtualTechnical\ApiVirutalTechnical\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Development\VirtualTechnical\ApiVirutalTechnical\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll

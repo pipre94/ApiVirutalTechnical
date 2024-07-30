@@ -1,0 +1,12 @@
+C:\Development\VirtualTechnical\ApiVirutalTechnical\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Development\VirtualTechnical\ApiVirutalTechnical\Domain\bin\Debug\net7.0\Domain.dll
+C:\Development\VirtualTechnical\ApiVirutalTechnical\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Development\VirtualTechnical\ApiVirutalTechnical\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\VirtualTechnical\ApiVirutalTechnical\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Development\VirtualTechnical\ApiVirutalTechnical\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Development\VirtualTechnical\ApiVirutalTechnical\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Development\VirtualTechnical\ApiVirutalTechnical\Domain\obj\Debug\net7.0\Domain.sourcelink.json
+C:\Development\VirtualTechnical\ApiVirutalTechnical\Domain\obj\Debug\net7.0\Domain.dll
+C:\Development\VirtualTechnical\ApiVirutalTechnical\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Development\VirtualTechnical\ApiVirutalTechnical\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Development\VirtualTechnical\ApiVirutalTechnical\Domain\obj\Debug\net7.0\ref\Domain.dll
